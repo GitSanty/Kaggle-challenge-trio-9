@@ -1,6 +1,10 @@
 # Kaggle-challenge-trio-9
 
-## 1.Results
+## 1.Summary
+
+This notebook contains 4 charts that visualizes correlations between happiness, life expectancy and other parameters of countries. The communication took place in Discord and Github was used to make one notebook together.
+
+## 2.Results
 
 ### The chosen dataset: 
 _2020.csv_: this dataset has information about the happiness of the people all around the world with some extra information like freedom, GDP, life expectancy...
@@ -25,11 +29,7 @@ A scatter plot that has the social support of a country on the x-axis and the li
 \
 ![plot4](./Assets/plot4.png)
 
-## 2.Workflow
+## 3.Workflow
 
 ### Github
-We were with a group of three (Maryame, Santiago, Nathan). We divided some work, but stayed connected through discord to help each other. We worked in separate branches and at the end tried to merge everything. We encountered some problems with the merges, but resolved them by adjusting the JSON files that represented the notebook. Small changes for instance the README or some spellings mistakes were directly made on the main branch. 
-
-## 3.Summary
-
-This notebook contains 4 charts that visualizes correlations between happiness, life expectancy and other parameters of countries. The communication took place in Discord and Github was used to make one notebook together.
+We are a group of three (Maryame, Santiago, Nathan). We divided some work, but stayed connected through discord to help each other. We worked in separate branches and at the end tried to merge everything. We encountered some problems with the merges, but resolved them by adjusting the JSON files that represented the notebook. Small changes for instance the README or some spellings mistakes were directly made on the main branch. 
