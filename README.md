@@ -29,6 +29,11 @@ A scatter plot that has the social support of a country on the x-axis and the li
 \
 ![plot4](./Assets/plot4.png)
 
+### plot#5
+Finally Santiago practiced some more and added a heatmap with another dataset: "flights". A heatmap was generated that shows how many passengers took a flight in a certain month. On the x-axis are years so we can see a clear evolution and we can also see that the summer months are the most popular time of the year to fly somewhere.\
+\
+![plot5](./Assets/plot5.png)
+
 ## 3.Workflow
 
 ### Github
