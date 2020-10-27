@@ -7,7 +7,7 @@ _2020.csv_: this dataset has information about the happiness of the people all a
 
 ### Plot#1
 Scatter plot with on the x-axis the GDP of the country and on the y-axis the happiness ladder score. The general trend says that the higher the GDP of a country, the happier the population in general.\
-![plot1](./assets/plot1.png)
+![plot1](./Assets/plot1.png)
 
 ### plot#2
 A bar chart generated with Seaborn that displays the top 10 countries with a lot of freedom in life choices.
