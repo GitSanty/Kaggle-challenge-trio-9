@@ -2,6 +2,7 @@
 
 ## 1.Summary
 
+Dataset: <https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv>
 This notebook contains 4 charts that visualizes correlations between happiness, life expectancy and other parameters of countries. The communication took place in Discord and Github was used to make one notebook together.
 
 ## 2.Results
